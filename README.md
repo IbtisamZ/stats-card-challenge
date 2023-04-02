@@ -1,6 +1,6 @@
 # Stats Card Challenge
 
-This is my repo for the Stats Card Component challenge by frontendmentor.io
+This is my repo for the Stats Card Component challenge by [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-card-using-react-and-mui-_zvcxRKO7W)
 
 ---
 
