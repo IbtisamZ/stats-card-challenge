@@ -173,7 +173,7 @@ const StatsCard = () => {
             fontSize: 13,
           }}
           >
-              — IbtisamZ —
+              Challenge by FrontendMentor.io - Coded by IbtisamZ.
           </Box>
       </Box>
   );
