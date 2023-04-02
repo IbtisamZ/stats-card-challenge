@@ -19,7 +19,7 @@ const StatsCard = () => {
 
   return (
 
-      <Box sx={{ mx: 3 }}>
+      <Box sx={{ mx: 3, height: '100vh' }}>
           <Box sx={{
             display: 'flex',
             flexDirection: {
@@ -28,7 +28,7 @@ const StatsCard = () => {
             },
             justifyContent: 'center',
             alignItems: 'center',
-            height: '100vh',
+            height: 1,
           }}
           >
               <Box sx={{
@@ -165,6 +165,15 @@ const StatsCard = () => {
                   }}
                   />
               </Box>
+          </Box>
+          <Box sx={{
+            width: 1,
+            textAlign: 'center',
+            color: 'common.slightlyTransparentWhite',
+            fontSize: 13,
+          }}
+          >
+              — IbtisamZ —
           </Box>
       </Box>
   );
