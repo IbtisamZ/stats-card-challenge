@@ -1,6 +1,6 @@
-# Stats Card Challenge
+# Responsive landing page challenge
 
-This is my repo for the Stats Card Component challenge by [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-card-using-react-and-mui-_zvcxRKO7W)
+This is my repo for the sunnyside landing page challenge by [frontendmentor.io](https://www.frontendmentor.io/solutions/sunnyside-responsive-landing-page-using-react-and-mui-qm7npgab0J)
 
 ---
 
@@ -9,6 +9,6 @@ This is my repo for the Stats Card Component challenge by [frontendmentor.io](ht
 - React js.
 - Mui.
 
-## [Live demo.](https://ibtisamz.github.io/stats-card-challenge)
+## [Live demo.](https://IbtisamZ.github.io/sunnyside-landing-page)
 
 
